@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;React+%7C+Spring+Boot+Developer;Mobile+App+Developer+(Kotlin);Passionate+About+AI+and+IoT"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;React+%7C+Javascript+Developer;Mobile+App+Developer+(Kotlin);Passionate+About+AI+and+IoT"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@ I am a passionate <b>Software Engineering student</b> who loves building modern 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Malith04&theme=tokyonight&hide_border=true"/>
 
 </p>
 
