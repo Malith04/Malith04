@@ -61,7 +61,7 @@ I am a passionate <b>Software Engineering student</b> who loves building modern 
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Malith04&theme=tokyo-night"/>
 
 </p>
 
