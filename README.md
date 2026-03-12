@@ -1,45 +1,66 @@
 <!-- HEADER BANNER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20I'm%20Malith%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Hi%20I'm%20Malith%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- PROFILE VIEWS -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Malith04&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <!-- TYPING ANIMATION -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;React+%7C+Javascript+Developer;Mobile+App+Developer+(Kotlin);Passionate+About+AI+and+IoT"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full+Stack+Developer;React+%7C+JavaScript+Developer;Mobile+App+Developer+(Kotlin);Building+AI+%26+IoT+Solutions"/>
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-I am a passionate <b>Software Engineering student</b> who loves building modern applications.
-<br><br>
-
-💻 Web Development | 📱 Mobile Apps | ☁️ Cloud | 🤖 AI Projects  
-<br>
-🚀 Currently building <b>Smart Systems & Real-Time Applications</b>
-<br>
-🌱 Learning: <b>AI Integration, Cloud Computing & Scalable Systems</b>
-</p>
-
----
-
-<h2 align="center">⚡ Tech Stack</h2>
+# 👨‍💻 About Me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,react,spring,js,html,css,python,mysql,firebase,git,github,vscode"/>
+💻 Passionate **Software Engineering Student**  
+🚀 Building **Modern Web & Mobile Applications**  
+🌱 Currently Learning **AI Integration & Cloud Systems**  
+⚡ Interested in **IoT, Smart Systems & Real-Time Applications**
 
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malith04&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,react,spring,js,html,css,python,mysql,firebase,git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 🚀 Tools & Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malith04&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malith04&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -47,7 +68,7 @@ I am a passionate <b>Software Engineering student</b> who loves building modern 
 
 ---
 
-<h2 align="center">🔥 Contribution Activity</h2>
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -57,7 +78,7 @@ I am a passionate <b>Software Engineering student</b> who loves building modern 
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -67,17 +88,25 @@ I am a passionate <b>Software Engineering student</b> who loves building modern 
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Malith04&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -85,7 +114,7 @@ I am a passionate <b>Software Engineering student</b> who loves building modern 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Malith04">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
@@ -97,8 +126,8 @@ I am a passionate <b>Software Engineering student</b> who loves building modern 
 
 ---
 
-<!-- FOOTER ANIMATION -->
+<!-- FOOTER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
