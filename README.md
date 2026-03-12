@@ -101,7 +101,7 @@
 <h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Malith04/Malith04/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Malith04/Malith04/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
