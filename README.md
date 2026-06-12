@@ -23,7 +23,6 @@
 <p align="center">
 
 💻 Passionate **Software Engineering Student**  
-🏢 Currently working as an **Intern Software Engineer**
 🚀 Building **Modern Web & Mobile Applications**  
 🌱 Currently Learning **AI Integration & Cloud Systems**  
 ⚡ Interested in **IoT, Smart Systems & Real-Time Applications**
