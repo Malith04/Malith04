@@ -21,7 +21,7 @@
 # 👨‍💻 About Me
 
 <p align="center">
-
+🏢 Currently working as an **Intern Software Engineer**
 💻 Passionate **Software Engineering Student**  
 🚀 Building **Modern Web & Mobile Applications**  
 🌱 Currently Learning **AI Integration & Cloud Systems**  
