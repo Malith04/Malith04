@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Hi%20I'm%20Malith%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Hi%20I'm%20Malith%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn[...]
 </p>
 
 <!-- PROFILE VIEWS -->
@@ -13,7 +13,7 @@
 <!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full+Stack+Developer;React+%7C+NextJS+%7C+NodeJS+%7C+NestJS;Building+AI+%26+IoT+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full+Stack+Deve[...]
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 <p align="center">
   
-🏢 Currently working as an **Intern Software Engineer**
+🏢 Currently working as an **Intern Software Engineer**  
 💻 Passionate **Software Engineering Student**  
 🚀 Building **Modern Web & Mobile Applications**  
 🌱 Currently Learning **AI Integration & Cloud Systems**  
