@@ -13,7 +13,7 @@
 <!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full+Stack+Developer;IoT+%26+Smart+Systems+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Intern+Software+Engineering;ReactJS+%7C+NodeJS+%7C+NextJS+%7C+NestJS;Full+Stack+Developer;IoT+%26+Smart+Systems"/>
 </p>
 
 ---
