@@ -1,126 +1,37 @@
-<!-- HEADER BANNER -->
+<!-- ======================================================== -->
+<!-- 🔥 MALITH'S TRENDING & ANIMATED GITHUB PROFILE README   -->
+<!-- ======================================================== -->
 
+<!-- 🌌 DYNAMIC GLOWING HEADER BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Hi%20I'm%20Malith%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:0F3460,75:16213E,100:00ADB5&height=240&section=header&text=Hi%20I'm%20Malith%20✦&fontSize=52&fontColor=00FFF5&animation=fadeIn&fontAlignY=36&desc=Intern%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20IoT%20Innovator&descSize=19&descAlignY=58&descAlign=50" width="100%"/>
 </p>
 
-<!-- PROFILE VIEWS -->
-
+<!-- ⚡ MULTI-COLOR TYPING ANIMATION -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Malith04&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=00FFF5&center=true&vCenter=true&multiline=true&width=700&height=85&lines=🚀+Intern+Software+Engineer+%7C+Problem+Solver;💻+Building+Modern+Web%2C+Mobile+%26+Cloud+Apps;⚡+Specializing+in+React%2C+NodeJS%2C+NextJS+%26+Spring+Boot;🌱+Exploring+AI+Integration+%26+Smart+IoT+Systems" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- TYPING ANIMATION -->
-
+<!-- 🏷️ QUICK STATUS BADGES & PROFILE VIEWS -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Intern+Software+Engineer;ReactJS+%7C+NodeJS+%7C+NextJS+%7C+NestJS;Full+Stack+Developer;IoT+%26+Smart+Systems"/>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-<p align="center">
-  
-🏢 Currently working as an **Intern Software Engineer**  
-💻 Passionate **Software Engineering Student**  
-🚀 Building **Modern Web & Mobile Applications**  
-🌱 Currently Learning **AI Integration & Cloud Systems**  
-⚡ Interested in **IoT, Smart Systems & Real-Time Applications**
-
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00ADB5?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20IoT-7928CA?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=Malith04&label=Profile%20Views&color=00ADB5&style=for-the-badge"/>
 </p>
 
 ---
 
-# ⚡ Tech Stack
+### 💻 `malith@developer:~$ cat profile.json`
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,react,spring,js,html,css,python,mysql,firebase,git,github,vscode,postman"/>
-
-</p>
-
----
-
-# 🚀 Tools & Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malith04&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malith04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Malith04&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Malith04&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Malith04&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/hashintha-malith-794823361/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Malith04">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:malithrajamanthri@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<!-- FOOTER -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-</p>
+```json
+{
+  "name": "Hashintha Malith",
+  "title": "Intern Software Engineer & SE Undergraduate",
+  "current_focus": ["High-Performance Web Apps", "Cloud Architecture", "IoT Real-Time Systems"],
+  "learning_radar": ["AI Agents", "Microservices", "Next.js 15 Server Actions"],
+  "hobbies": ["Tinkering with Microcontrollers 🔌", "Sound & Music Systems 🎵", "Open Source 🌍"],
+  "motto": "Writing clean, scalable code that turns visionary ideas into reality."
+}
