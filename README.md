@@ -14,13 +14,13 @@
 
   <br/><br/>
 
-  <!-- ⚡ MULTI-COLOR TYPING ANIMATION -->
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=00FFF5&center=true&vCenter=true&multiline=true&width=700&height=85&lines=🚀+Intern+Software+Engineer+%7C+Problem+Solver;💻+Building+Modern+Web%2C+Mobile+%26+Cloud+Apps;⚡+Specializing+in+React%2C+NodeJS%2C+NextJS+%26+Spring+Boot;🌱+Exploring+AI+Integration+%26+Smart+IoT+Systems" 
-      alt="Typing SVG" 
-    />
-  </a>
+  <!-- ⚡ SINGLE-LINE ROTATING TYPEWRITER -->
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=1000&color=00FFF5&center=true&vCenter=true&width=750&height=50&lines=🚀+Intern+Software+Engineer+%7C+Problem+Solver;💻+Building+Modern+Web%2C+Mobile+%26+Cloud+Apps;⚡+Specializing+in+React%2C+NodeJS%2C+NextJS+%26+Spring+Boot;🌱+Exploring+AI+Integration+%26+Smart+IoT+Systems" 
+    alt="Typing SVG" 
+  />
+</a>
 
   <br/><br/>
 
