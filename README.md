@@ -64,14 +64,28 @@
 
 <hr/>
 
-<!-- 🐍 TRENDING ANIMATED CONTRIBUTION SNAKE -->
+<!-- 🎵 LIVE NOW PLAYING / SOUNDWAVE VIBES -->
 <div align="center">
-  <h2>🐍 GitHub Contribution Snake</h2>
-  <img 
-    src="https://raw.githubusercontent.com/Malith04/Malith04/output/github-contribution-grid-snake-dark.svg" 
-    alt="GitHub Contribution Snake" 
-    width="100%" 
-  />
+  <h2>🎧 Currently Jamming on SoundWave</h2>
+  <p><em>Next-gen music streaming with AI recommendations, 10-band studio EQ & synced lyrics 🎶</em></p>
+
+  <a href="https://github.com/Malith04/SoundWave" target="_blank">
+    <img 
+      src="https://spotify-github-stream.vercel.app/api?theme=tokyonight&uid=malith" 
+      alt="SoundWave Live Music Vibes"
+    />
+  </a>
+
+  <br/><br/>
+
+  <!-- SoundWave Feature Badges -->
+  <p>
+    <a href="https://github.com/Malith04/SoundWave">
+      <img src="https://img.shields.io/badge/Powered%20By-SoundWave-1DB954?style=for-the-badge&logo=soundcharts&logoColor=white" alt="SoundWave App" />
+    </a>
+    <img src="https://img.shields.io/badge/Audio-Studio%20Web%20EQ-00E5FF?style=for-the-badge&logo=waveform" alt="Studio Audio Engine" />
+    <img src="https://img.shields.io/badge/App-PWA%20Offline%20Ready-FF007F?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA Ready" />
+  </p>
 </div>
 
 <hr/>
